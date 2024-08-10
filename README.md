@@ -2,7 +2,7 @@
  > **AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/20469768274537)
 
  > Click on the following link to check out the video presentation and the colab file.
-- [Colab]()
+- [Colab](https://colab.research.google.com/drive/19J3OXEyXZMIVaDKKVVCGK5kOht3STgr4)
 - [Video](https://drive.google.com/file/d/1B7HrFcQbgcZ2xx5PGmhqKyC8f6xvcbhk/view?usp=sharing) 
 
  > ## Project Summary :-
